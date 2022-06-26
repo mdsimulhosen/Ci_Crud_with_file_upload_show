@@ -1,0 +1,33 @@
+/* ============= Simul Area start ================  */
+
+
+ /* ======== Data Table section Start ==========  */
+.dt-button {
+    background-color: #f34e4e !important;
+    color: #fff !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    border: none !important;
+}
+
+.datatable-example tbody>tr>td:first-child {
+    background-color: rgb(235, 234, 230);
+}
+.datatable-example  tr > td {
+    text-align: center !important;
+}
+.datatable-example thead > tr > th {
+    text-align: center !important;
+}
+
+ /* ======== Data Table section end ==========  */
+
+ /* ========= Add new Client Wizard Start =========  */
+
+.wizard-nav .active .step-icon{
+    color: #fff !important;
+    background-color: #343a40 !important;
+}
+
+
+/* ============= Simul Area end ================  */
