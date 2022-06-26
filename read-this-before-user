@@ -1,0 +1,7 @@
+There are two tables.
+1. tbl_admin ------ for admin login and registration form 
+2. tbl_student ----- for student list and student registration 
+
+you need to login first with email & password
+Email: test@gmail.com
+Password: 1234
